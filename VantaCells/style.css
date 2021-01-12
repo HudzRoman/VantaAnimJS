@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+.intro {
+  height: 100vh;
+}
+
+.title {
+  position: absolute;
+  margin-top: 13rem;
+  margin-left: 7rem;
+  color: whitesmoke;
+}
+.title h1 {
+  font-family: "Pacifico", cursive;
+  font-size: 5rem;
+  letter-spacing: 1rem;
+  margin-bottom: 0.4em;
+}
+.title p {
+  font-family: "Fugaz One", cursive;
+  font-size: 1rem;
+  letter-spacing: 0.3rem;
+  text-align: right;
+  margin-right: 3rem;
+}
